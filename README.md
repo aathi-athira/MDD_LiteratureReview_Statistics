@@ -86,6 +86,8 @@ The analysis evaluates **4 key quality factors**:
 | **Factor-4** | ML Usage(Yes/No) | Use of Machine Learning automation |
 | **Factor-5** | Overall Quality  | Comprehensive quality assessment  |
 
+※ Please note that **Factor-4** is being used in the qualitive assessment analysis and not in the risk of bias calculation/visualization.
+
 ### Risk Levels
 
 Each factor is rated on **3 risk levels**:
